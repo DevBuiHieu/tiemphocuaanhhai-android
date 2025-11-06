@@ -6,6 +6,7 @@
 - ⚔️ Hành động – nhập vai theo cốt truyện
 
 ---
+#Link Tải: https://drive.google.com/file/d/1i-3SKl3XG4keiZ8gqA7XQbsIVLId2qzP/view?usp=sharing
 
 Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên điện thoại và tính năng tự động lưu scene gần nhất và cho phép tải lại.
 
