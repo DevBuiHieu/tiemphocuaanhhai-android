@@ -12,7 +12,7 @@ Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên �
 ---
 ## 🐾 Nhà phát triển
 - Lập trình & Gameplay: **marisa0704**
-- X: *@_Alice30_*
+- X: *[@_Alice30_](https://x.com/_Alice30_)*
 - Email: *hehehekth@gmail.com*
 - Phát hành cộng đồng — miễn phí cho mục đích giải trí.
 ---
