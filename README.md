@@ -6,7 +6,7 @@
 - ⚔️ Hành động – nhập vai theo cốt truyện
 
 ---
-# Link Tải: https://drive.google.com/file/d/1i-3SKl3XG4keiZ8gqA7XQbsIVLId2qzP/view
+# Link Tải: https://www.dropbox.com/scl/fi/y7k6z5lb8w4n2jcn9aq98/bhpr.apk?rlkey=k21f9zrpongjfqk2h6pg1lb2f&st=8mnuoz3n&dl=0
 
 Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên điện thoại và tính năng tự động lưu scene gần nhất và cho phép tải lại.
 
