@@ -29,3 +29,4 @@ Nếu game có lỗi gì hay bạn muốn tính năng nào mới thì hãy mở 
 - Email: *(dev.buihieu@gmail.com)*
 
 ---
+PROJECT NÀY KHÔNG ĐƯỢC SỬ DỤNG CHO MỤC ĐÍCH THƯƠNG MẠI. CÁC TÁC GIẢ ĐỀU ĐÃ ĐƯỢC GHI CÔNG.
