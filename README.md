@@ -11,7 +11,7 @@
 Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên điện thoại và tính năng tự động lưu scene gần nhất và cho phép tải lại.
 
 # Hướng dẫn sử dụng tính năng khôi phục scene gần nhất:
-- Nếu bạn thoát ra vào lại thì ở menu sẽ có nút khôi phục, bạn chỉ cần ấn vào là game sẽ tự chuyển đến thời điểm đầu scene đó.
+- Nếu bạn thoát ra vào lại thì ở menu sẽ có nút khôi phục, bạn chỉ cần ấn vào là game sẽ tự chuyển đến thời điểm đầu scene gần nhất mà bạn chơi.
 - Nếu bạn đang trong game, hãy nhấn nút tạm dừng game, sẽ có nút khôi phục.
 - Nếu bạn muốn xoá bản lưu, hãy nhấn nút tạm dừng và nhấn nút xoá.
 
