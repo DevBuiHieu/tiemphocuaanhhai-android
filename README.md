@@ -6,7 +6,7 @@
 - ⚔️ Hành động – nhập vai theo cốt truyện
 
 ---
-# Link Tải: https://www.dropbox.com/scl/fi/56kh27wwom4bjrbgtlzz4/Tiem-Pho-Cua-Anh-Hai.apk?rlkey=2fjh9tfgl0463rzllh4s56mo1&e=1&st=v6m9e6wr&dl=0
+# Link Tải: https://drive.google.com/file/d/1i-3SKl3XG4keiZ8gqA7XQbsIVLId2qzP/view
 
 Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên điện thoại và tính năng tự động lưu scene gần nhất và cho phép tải lại.
 
