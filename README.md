@@ -6,7 +6,9 @@
 - ⚔️ Hành động – nhập vai theo cốt truyện
 
 ---
+
 Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên điện thoại và tính năng tự động lưu scene gần nhất và cho phép tải lại.
+
 ---
 ## 🐾 Nhà phát triển
 - Lập trình & Gameplay: **marisa0704**
@@ -16,6 +18,7 @@ Bản này mình đã thêm 1 số tính năng cho phép điều khiển trên �
 ---
 
 ## 💬 Góp ý – Liên hệ
+Nếu game có lỗi gì hay bạn muốn tính năng nào mới thì hãy mở issue nha. Mình sẽ cố gắng trả lời bạn sớm nhất.
 - TikTok / Fanpage: *(http://tiktok.com/@dev_buihieu)*
 - Email: *(dev.buihieu@gmail.com)*
 
